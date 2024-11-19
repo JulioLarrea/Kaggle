@@ -1,2 +1,2 @@
 # Kaggle
-Pandas Course
+Pandas and Pyhton Course
